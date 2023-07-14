@@ -9,7 +9,7 @@ The repository contains the official implementation of the architectural models 
 
 📦 **Omnia-Net Model Availability**
 
-The pytorch implementation of the network is available [HERE]
+The pytorch implementation of the network is available [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CAMUS) for the b0 version and [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CHAOS) for the b4 version.
 
 ![2d_chaos](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/d999798e-d40a-4968-9095-cae75b000d66)
 
@@ -18,7 +18,7 @@ The pytorch implementation of the network is available [HERE]
 
 📦 **DS-Net Model Availability**
 
-The pytorch implementation of the network is available [HERE]
+The pytorch implementation of the network is available [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/BraTS/DS-Net)
 
 ![brats](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/55a7069c-0c51-4d75-9c2d-8f29dd93c6af)
 
@@ -27,7 +27,7 @@ The pytorch implementation of the network is available [HERE]
 
 📦 **DX-Net Model Availability**
 
-The pytorch implementation of the network is available [HERE]
+The pytorch implementation of the network is available [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/BraTS/DX-Net)
 
 ![3d_scores](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/62b1048f-2888-4e96-b8a9-f00438fa50e3)
 
