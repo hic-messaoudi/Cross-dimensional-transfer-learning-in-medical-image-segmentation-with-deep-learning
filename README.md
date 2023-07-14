@@ -6,7 +6,7 @@ The repository contains the official implementation of the architectural models 
 
 :star: **Omnia-Net**, one of the architectures, which can utilize any pre-trained 2D classification network as an encoder within a U-Net-like structure. This approach proves effective in both 2D and 3D settings, exhibiting consistent performance across different medical imaging modalities.
 
-📦 ##Omnia-Net Model Availability
+📦 Omnia-Net Model Availability
 
 The pytorch implementation of the network is available [HERE]
 
