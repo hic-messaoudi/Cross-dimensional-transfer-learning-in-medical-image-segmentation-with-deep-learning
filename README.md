@@ -9,7 +9,7 @@ The repository contains the official implementation of the architectural models 
 
 📦 **Omnia-Net Model Availability**
 
-The pytorch implementation of the network is available [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CAMUS) for the b0 version and [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CHAOS) for the b4 version.
+The pytorch implementation of the network is available [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CAMUS) for the version b0 and [HERE](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/tree/main/Models/CHAOS) for the version b4.
 
 ![2d_chaos](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/d999798e-d40a-4968-9095-cae75b000d66)
 
