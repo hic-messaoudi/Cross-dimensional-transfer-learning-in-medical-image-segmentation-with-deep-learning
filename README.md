@@ -63,5 +63,7 @@ of the tcga-gbm collection. The Cancer Imaging Archive, 2017. DOI:10.7937/K9/TCI
 
 6. S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, and A. Crimi et al. Identifying the best machine learning algorithms for brain tumor segmentation, progression assessment, and overall survival prediction in the brats challenge. arXiv preprintarXiv:1811.02629, 2018.
    
-7. Ujjwal Baid, Satyam Ghodasara, Michel Bilello, et al (2021). The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation and Radiogenomic Classification. CoRR, abs/2107.02314. 
+7. Ujjwal Baid, Satyam Ghodasara, Michel Bilello, et al (2021). The RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor Segmentation and Radiogenomic Classification. CoRR, abs/2107.02314.
+   
+8. Wightman, R., Raw, N., Soare, A., Arora, A., Ha, C., Reich, C., Guan, F., Kaczmarzyk, J., MrT23, , Mike, SeeFun, Contrastive, Rizin, M., Hyeongchan Kim, Kertész, C., Dushyant Mehta, Cucurull, G., Kushajveer Singh, Hankyul, … Uchida, Y. (2023). rwightman/pytorch-image-models: v0.8.10dev0 Release (v0.8.10dev0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.4414861
   
