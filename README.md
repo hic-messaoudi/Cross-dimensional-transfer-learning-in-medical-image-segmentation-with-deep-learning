@@ -2,7 +2,8 @@
 
 The repository contains the official implementation of the architectural models described in [Cross-dimensional transfer learning in medical image segmentation with deep learning](https://doi.org/10.1016/j.media.2023.102868).
 
-![graph](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/fdf92ea3-f180-463c-9ef9-c3a65a91d7fa)
+![graph](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/a1c0fa68-57e7-4f9d-8a7e-ad20483c4f9a)
+
 
 :star: **Omnia-Net**, one of the architectures, which can utilize any pre-trained 2D classification network as an encoder within a U-Net-like structure. This approach proves effective in both 2D and 3D settings, exhibiting consistent performance across different medical imaging modalities.
 
@@ -10,7 +11,7 @@ The repository contains the official implementation of the architectural models 
 
 The pytorch implementation of the network is available [HERE]
 
-![2d_chaos](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/2086917b-8813-4489-ba9f-7726beaa1444)
+![2d_chaos](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/d999798e-d40a-4968-9095-cae75b000d66)
 
 
 :star: **DS-Net** (Dimensionally-Stacked Network), is another architecture presented in the article, which comprises a randomly initialized 3D encoder, Omnia-Net (2D), and a 3D decoder. DS-Net leverages the strengths of both 2D and 3D representations to enhance the segmentation process.
@@ -19,7 +20,8 @@ The pytorch implementation of the network is available [HERE]
 
 The pytorch implementation of the network is available [HERE]
 
-![brats](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/e3b86676-1cab-4d6a-a5d6-5f5d5f64593b)
+![brats](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/55a7069c-0c51-4d75-9c2d-8f29dd93c6af)
+
 
 :star: The final architecture is **DX-Net** (Dimensionally-eXpanded Network), which employs a sequence of 3D weights extrapolated from the weights of a pre-trained 2D encoder. These 3D weights initialize the encoder component of a 3D U-Net-like architecture. By leveraging the pre-trained 2D weights, DX-Net aims to enhance the performance of the 3D encoder for faster and more accurate 3D medical image segmentation.
 
@@ -27,7 +29,8 @@ The pytorch implementation of the network is available [HERE]
 
 The pytorch implementation of the network is available [HERE]
 
-![3d_scores](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/20ff626f-3a4d-4993-8e09-ffb6e55a5bd2)
+![3d_scores](https://github.com/hic-messaoudi/Cross-dimensional-transfer-learning-in-medical-image-segmentation-with-deep-learning/assets/83643719/62b1048f-2888-4e96-b8a9-f00438fa50e3)
+
 
 Overall, this repository provides the necessary codebase for replicating the experiments and results presented in the research article, enabling further exploration and development in the field of cross-dimensional transfer learning for medical image segmentation using deep learning techniques.
 
