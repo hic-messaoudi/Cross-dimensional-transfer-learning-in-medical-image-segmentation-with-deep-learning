@@ -6,7 +6,7 @@ The repository contains the official implementation of the architectural models 
 
 :star: **Omnia-Net**, one of the architectures, which can utilize any pre-trained 2D classification network as an encoder within a U-Net-like structure. This approach proves effective in both 2D and 3D settings, exhibiting consistent performance across different medical imaging modalities.
 
-📦 Omnia-Net Model Availability
+📦 **Omnia-Net Model Availability**
 
 The pytorch implementation of the network is available [HERE]
 
@@ -15,7 +15,7 @@ The pytorch implementation of the network is available [HERE]
 
 :star: **DS-Net** (Dimensionally-Stacked Network), is another architecture presented in the article, which comprises a randomly initialized 3D encoder, Omnia-Net (2D), and a 3D decoder. DS-Net leverages the strengths of both 2D and 3D representations to enhance the segmentation process.
 
-📦 DS-Net Model Availability
+📦 **DS-Net Model Availability**
 
 The pytorch implementation of the network is available [HERE]
 
@@ -23,7 +23,7 @@ The pytorch implementation of the network is available [HERE]
 
 :star: The final architecture is **DX-Net** (Dimensionally-eXpanded Network), which employs a sequence of 3D weights extrapolated from the weights of a pre-trained 2D encoder. These 3D weights initialize the encoder component of a 3D U-Net-like architecture. By leveraging the pre-trained 2D weights, DX-Net aims to enhance the performance of the 3D encoder for faster and more accurate 3D medical image segmentation.
 
-📦 DX-Net Model Availability
+📦 **DX-Net Model Availability**
 
 The pytorch implementation of the network is available [HERE]
 
